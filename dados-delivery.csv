@@ -1,4 +1,4 @@
-Produto ,dia-da-semana,hora-do-pedido,tempo-entrega,tempo-entrega-real,data-pedido,valor,atraso,avaliacao
+Produto,dia-da-semana,hora-do-pedido,tempo-entrega,tempo-entrega-real,data-pedido,valor,atraso,avaliacao
 A,4,14,15,15,12/24/2020,39.0,0,10
 A,7,13,15,60,12/16/2020,10.0,1,0
 B,7,14,30,30,12/27/2020,30.0,0,9
